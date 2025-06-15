@@ -5,10 +5,8 @@ This project is designed to help beginners and novices get started with embedded
 > **Disclaimer**: This tutorial was generated with the assistance of AI (specifically Cursor AI). While every effort has been made to ensure accuracy and completeness, please verify all information and code before implementation. The tutorial is provided "as is" without any warranties.
 
 This tutorial covers a complete project for controlling a micro:bit's LED display from a PC using Python. The project includes both GUI and command-line interfaces, as well as the micro:bit code. 
-
+  
 ![Micro:bit Button to Serial Communication](microbit-button_to_serial.png)
-
-![PC LED Control CLI Interface](pc_led_control_gui.png)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -161,6 +159,9 @@ while True:
 ## PC Applications
 
 ### GUI Version
+
+![PC LED Control CLI Interface](pc_led_control_gui.png)
+
 
 The GUI version (`pc_led_control.py`) provides a graphical interface with:
 - A large toggle button
