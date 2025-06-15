@@ -107,7 +107,7 @@ It's recommended to use a virtual environment to manage project dependencies. He
 ```
 microbit-led-control/
 ├── microbit_led_toggle.py    # micro:bit code
-├── pc_led_control.py         # GUI version
+├── pc_led_control_gui.py         # GUI version
 ├── pc_led_control_cli.py     # CLI version
 └── TUTORIAL.md              # This tutorial
 ```
