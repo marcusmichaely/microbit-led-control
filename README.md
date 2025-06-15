@@ -208,7 +208,6 @@ Available commands:
 
 3. Connect the micro:bit to your computer
 
-### Using the GUI Version
 
 ### Using the CLI Version
 
@@ -222,6 +221,9 @@ Available commands:
    - Type `c` to reconnect if needed
    - Type `h` to see all commands
    - Type `q` to quit
+
+
+### Using the GUI Version
 
 1. Run the GUI application:
    ```bash
