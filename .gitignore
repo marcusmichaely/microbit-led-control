@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv
+
+# IDE
+.vscode/
+
+# micro:bit
+*.hex
+
+# macOS
+.DS_Store
