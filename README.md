@@ -163,7 +163,7 @@ while True:
 ![PC LED Control CLI Interface](pc_led_control_gui.png)
 
 
-The GUI version (`pc_led_control.py`) provides a graphical interface with:
+The GUI version (`pc_led_control_gui.py`) provides a graphical interface with:
 - A large toggle button
 - Connection status display
 - Connect/Reconnect button
